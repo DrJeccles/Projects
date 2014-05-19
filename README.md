@@ -1,9 +1,7 @@
-Projects
-
-by James Eccles
+Projects by James Eccles
 
 Last edited 5/19/2014
 
 =====================
 
-Tools, scripts, and other simple programs
+This page is a collection of tools and simple programs that I've written.
